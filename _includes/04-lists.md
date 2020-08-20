@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Photography
+* Walking
+  * In nature
+  * City-breaks
